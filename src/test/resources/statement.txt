@@ -1,0 +1,11 @@
+            fooooo
+           /    \
+          /      \
+         /        \
+        /          \
+       k           bar
+      /            /  \
+     /           baz   w
+    ab           / \   /\
+   / \          z   i m  abcde
+  o   pam

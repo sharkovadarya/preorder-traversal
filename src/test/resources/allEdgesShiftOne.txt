@@ -1,0 +1,13 @@
+                  longnodetext
+                 /            \
+                /              \
+               /                \
+              /                  \
+      moderate                    nodetext
+     /        \                  /        \
+    q          p                /          \
+                               /            text
+                              /            /    \
+                             /            2      \
+                        short                     \
+                                                   3
